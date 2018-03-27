@@ -1,3 +1,5 @@
+# Video Player with Tapestry
+
 In this project, you will implement a video summarization algorithm that produces a “summary image” summarizing the video content. Furthermore, given a video and an audio file, you are required to design a user interface that can
 
 • display the video/audio stream in synchronization and
